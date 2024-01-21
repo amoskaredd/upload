@@ -7,7 +7,7 @@
     "node": "18.x"
   },
   "scripts": {
-    "start": "main.coffe",
+    "start": "node main.coffe",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mroy25",
