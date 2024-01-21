@@ -1,4 +1,17 @@
 {
+  "name": "uploader",
+  "version": "1.0.0",
+  "description": "file uploader",
+  "main": "main.coffe",
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "start": "main.coffe",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mroy25",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
     "file-type": "^16.5.4"
