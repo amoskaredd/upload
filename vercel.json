@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "builds": [
+      {
+          "src": "./main.coffe",
+          "use": "@vercel/node"
+      }
+  ],
+  "routes": [
+      {
+          "src": "/main.coffe",
+          "dest": "/"
+      }
+  ]
+}
